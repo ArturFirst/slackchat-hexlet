@@ -38,7 +38,7 @@ export default (props) => {
                 <FormControl
                   required
                   ref={inputRef}
-                  placeholder={i18next.t('userNamePlaceholder')}
+                  placeholder={'for example, Artur'}
                   onChange={form.handleChange}
                   onBlur={form.handleBlur}
                   value={form.values.name}
@@ -47,7 +47,7 @@ export default (props) => {
                 <FormLabel className="mt-2">{i18next.t('userNameModalSurname')}</FormLabel>
                 <FormControl
                   required
-                  placeholder={i18next.t('userSuramePlaceholder')}
+                  placeholder={'for example, Tanashuk'}
                   onChange={form.handleChange}
                   onBlur={form.handleBlur}
                   value={form.values.surname}
