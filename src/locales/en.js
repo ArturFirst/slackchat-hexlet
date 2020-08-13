@@ -16,9 +16,9 @@ export default {
     renameTitle: 'Write new title here',
     userNameModalTitle: "Hi! It seems that you wanna change your name in the chat.\nPlease, leave it below.\nOtherwise there will be a random one ;)\nHope you'll enjoy!",
     userNameModalName: "What's your name?",
-    userNamePlaceholder: 'for example, Sergey',
+    userNamePlaceholder: 'for example, Artur',
     userNameModalSurname: "What's your surname?",
-    userSuramePlaceholder: 'for example, Suchkov',
+    userSuramePlaceholder: 'for example, Tanashuk',
     userNameButton: 'Change my name',
     userNameModalSubmit: 'Confirm',
     errors: {
